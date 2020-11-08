@@ -1,0 +1,48 @@
+p
+{
+	background-color: blue;
+	color: white;
+	font-family: arial;
+	font-size: 22pt;
+}
+
+p.bio
+{
+	background-color: rgba(255,255,255,0.5);
+	color: black;
+	font-family: arial;
+	font-size: 12pt;
+}
+
+body
+{
+	background-image: url(images/bob_background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+a
+{
+	background-color: white;
+	color: black;
+}
+
+a:hover
+{
+	background-color: blue;
+	color: white;
+}
+
+img
+{
+	position: relative;
+	left: 50%;
+}
+
+iframe
+{
+	position: relative;
+	left: 50%;
+}
